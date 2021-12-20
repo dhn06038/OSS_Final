@@ -3,8 +3,10 @@ The final project of OSS lecture is find the best model for image classification
 
 
 ## Framework to find the model
-First, try several classifiers in scikit with default settings.\n
+First, try several classifiers in scikit with default settings.
+
 Second, choose some models which has high accuracy.
+
 Third, change some hyperparameters until get highest accuracy.
 
 
