@@ -12,6 +12,13 @@ __Third__, change some hyperparameters until get highest accuracy.
 
 
 
+## About model
+Logistic regression is a linear model for classification.
+
+In this model, the probabilities describing the possible outcomes of a single trial are modeled using a logistic function. 
+
+
+
 ## About codes
 *Create a classification object*
 
